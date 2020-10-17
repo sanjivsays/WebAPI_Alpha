@@ -8,6 +8,7 @@ namespace MyAplha_WebAPI.Controllers
 {
     public class HomeController : Controller
     {
+        //Test
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
